@@ -1,0 +1,58 @@
+body{
+    font-family: "Open Sans", sans-serif;
+
+}
+.banner-container{
+    background-color: aqua;
+}
+.banner-colum{
+    background-color: rgb(156, 165, 173);
+}
+
+
+.navbar-container {
+        top: 0;
+        background-color: rgb(156, 27, 27); /* Dark red background */
+        position: sticky; /* Stick the navbar when scrolling */
+        z-index: 2; /* Ensure it's above other content */
+        width: 100%; /* Ensure it spans the full width */
+    }
+    
+
+.about-container{
+ background-color: rgb(80, 79, 77);
+
+}
+.education-container{
+    background-color:rgb(80, 79, 77); ;
+}
+.bg-redtype{
+    background-color: rgb(64, 60, 60);;
+}
+.bg-redtype :hover{
+    background-color: rgb(64, 60, 60) !important;
+}
+.redtype-color{
+   color: rgb(64, 60, 60)
+}
+.circle{
+    background-color:coral;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    
+}
+.project-container{
+    background-color: rgb(118, 116, 125);
+}
+.card-img-top {
+    object-fit: cover;
+    width: 100%;
+    height: 200px; /* You can adjust the height based on your design */
+}
+.form-container{
+    background-color: rgb(156, 175, 175);
+}
+.inner-form{
+    background-color: rgb(69, 138, 138);
+}
